@@ -57,3 +57,18 @@ Peran QA memberikan nilai strategis yang berdampak langsung pada keberhasilan bi
 | **Meningkatkan Loyalitas User** | Menjamin *User Experience* yang baik, memastikan software **bebas *crash*** dan **stabil**. |
 | **Menjaga Reputasi & Keamanan** | Mencegah peluncuran *software* dengan *bug* fatal dan melakukan **Security Testing** untuk data user. |
 | **Memastikan Kepatuhan** | Memastikan software sesuai dengan fungsionalitas dan mematuhi **regulasi standar** industri yang ketat. |
+
+---
+
+# 🔬 Level & Jenis Pengujian (*Testing*)
+
+Aktivitas pengujian dibagi berdasarkan level dan jenisnya untuk memastikan cakupan kualitas yang komprehensif.
+
+## A. Testing Levels (Tingkatan Pengujian)
+
+| Level | Fokus Pengujian | Pelaku Utama |
+| :--- | :--- | :--- |
+| **Unit Testing** | Menguji kode yang paling kecil (satuan/fungsi), memastikan kode bekerja seharusnya. | Developer |
+| **Integration Testing** | Menguji bagaimana dua atau lebih modul kode saling "nyambung" dan bekerja sama dengan baik. | Developer & QA |
+| **System Testing** | Menguji **keseluruhan aplikasi** (*end-to-end*) sebagai satu kesatuan terhadap semua persyaratan. | QA |
+| **UAT (User Acceptance Testing)** | Tes terakhir di mana **calon *user*** atau *stakeholder* menguji aplikasi untuk memastikan aplikasi **benar-benar bisa digunakan** untuk menyelesaikan masalah bisnis. | Stake
