@@ -1,0 +1,59 @@
+# 🛡️ Quality Assurance (QA): Penjamin Kualitas Software
+
+Quality Assurance (QA) adalah peran krusial dalam siklus pengembangan perangkat lunak yang berfokus pada **pencegahan** masalah dan **penjaminan kualitas** produk akhir.
+
+---
+
+## 🎯 Apa Itu QA?
+
+QA adalah **Penjaga Kualitas** yang bertujuan untuk memastikan bahwa software berjalan dengan **benar** dan bekerja **sempurna** sebelum dipublikasikan (`publish`).
+
+## 👨‍💻 Peran & Tanggung Jawab QA
+
+### 1. Peran Utama QA dalam Software:
+
+* **Menjamin Kualitas Produk:** Memastikan software stabil dan berfungsi optimal.
+* **Menjamin Kenyamanan User:** Memberikan *User Experience* (UX) yang baik.
+* **Memastikan Kesesuaian Spesifikasi:** Memastikan produk sesuai dengan semua persyaratan teknis dan fungsional.
+* **Mengurangi Risiko Kegagalan:** Mendeteksi dan mencegah kesalahan sejak dini.
+
+### 2. Tugas Utama QA:
+
+1.  **Perencanaan Pengujian:** Membuat **Test Scenario** dan **Test Case** berdasarkan kebutuhan.
+2.  **Melakukan Testing:** Menjalankan berbagai jenis pengujian (*Functional, Performance, Manual & Automation*).
+3.  **Membuat Dokumentasi:** Menyusun laporan hasil pengujian dan laporan *bug*.
+4.  **Validasi Perubahan:** Memastikan pembaruan (*update*) tidak merusak fitur yang sudah ada.
+5.  **Memberikan Feedback:** Berkolaborasi dengan developer untuk perbaikan berkelanjutan.
+
+---
+
+## 🔄 SDLC & STLC: Siklus Pengembangan & Pengujian
+
+Dua konsep siklus ini mendasari semua proses rekayasa perangkat lunak:
+
+### 1. SDLC (Software Development Life Cycle)
+
+| Konsep | Penjelasan |
+| :--- | :--- |
+| **Definisi** | Serangkaian tahapan sistematis yang diikuti **seluruh tim** untuk merancang, membuat, dan memelihara sebuah software. |
+| **Sederhana** | SDLC adalah **ROADMAP** proyek yang memandu proses pembuatan software dari ide hingga pemeliharaan. |
+
+### 2. STLC (Software Testing Life Cycle)
+
+| Konsep | Penjelasan |
+| :--- | :--- |
+| **Definisi** | Serangkaian tahapan sistematis yang diikuti **tim QA** untuk menguji software secara efektif dan efisien. |
+| **Fokus** | Memastikan software sudah **sesuai spesifikasi** dan **bebas dari bug**. |
+
+---
+
+## 💡 Mengapa QA Sangat Penting? (Business Value)
+
+Peran QA memberikan nilai strategis yang berdampak langsung pada keberhasilan bisnis:
+
+| Faktor Penting | Penjelasan Dampak |
+| :--- | :--- |
+| **Menghemat Biaya** | Mencegah *bug* pada tahap awal jauh lebih cepat dan efisien. Memperbaiki *bug* setelah peluncuran bisa **10 hingga 100x lebih mahal**. |
+| **Meningkatkan Loyalitas User** | Menjamin *User Experience* yang baik, memastikan software **bebas *crash*** dan **stabil**. |
+| **Menjaga Reputasi & Keamanan** | Mencegah peluncuran *software* dengan *bug* fatal dan melakukan **Security Testing** untuk data user. |
+| **Memastikan Kepatuhan** | Memastikan software sesuai dengan fungsionalitas dan mematuhi **regulasi standar** industri yang ketat. |
